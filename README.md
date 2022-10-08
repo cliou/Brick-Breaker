@@ -2,10 +2,11 @@
 Context and date
 10/8/2022
 
-Description
+## Description
+Colorful and shining
 
 ## Implementation
-Which features you included
+Colors and fireworks
 
 ## References
 None
